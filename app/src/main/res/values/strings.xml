@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Network Discovery</string>
+    <string name="activity_main_title">Demo</string>
+    <string name="activity_main_status_discovery_on">Discovering</string>
+    <string name="activity_main_status_discovery_off">Disabled</string>
+    <string name="activity_main_toggle_discovery">Toggle</string>
+</resources>
